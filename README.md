@@ -1,0 +1,2 @@
+# led_switch
+raspberry pi4のgpio25番に接続されたLEDを点灯させるコードです
