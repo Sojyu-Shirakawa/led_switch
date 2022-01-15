@@ -45,5 +45,10 @@ $ echo 2 > /dev/myled0 <br>
 ### stop LED
 $ echo 0 > /dev/myled0 <br>
 <br>
+
+# reference
+[今井悠月さんのrobosys1](https://github.com/yuzukiimai/robosys1) <br>
+[暗くなると自動点灯するセンサライトを作ろう](https://www.mirai-kougaku.jp/laboratory/pages/190308.php)<br>
+
 # LICENSE
 GNU General Public License v3.0
