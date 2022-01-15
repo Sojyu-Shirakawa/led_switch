@@ -17,7 +17,7 @@ CdS * 1 <br>
 トランジスタ * 1 <br>
 
 # circuit
-
+![回路図　led_switch](https://user-images.githubusercontent.com/92199606/149627909-76c1f254-baff-4dbe-85fb-f95dfe9070aa.jpg)
 # how to use
 
 ## how to install
