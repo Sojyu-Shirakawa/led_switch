@@ -29,7 +29,7 @@ $ sudo insmod myled.ko <br>
 <br>
 $ sudo chmod 666 /dev/myled0 <br>
 <br>
-## how to unistall
+## how to uninstall
 $ sudo rmmod myled <br>
 <br>
 $ make clean <br>
